@@ -1,6 +1,7 @@
 import sqlite3 as sq
 import datetime as dt
 date_format = '%d.%m.%Y'
+#info git
 class Calculator:
     def __init__(self,limit):
         self.limit = limit
